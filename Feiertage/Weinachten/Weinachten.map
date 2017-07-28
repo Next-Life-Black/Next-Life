@@ -1,0 +1,72 @@
+<map edf:definitions="editor_main">
+    <marker id="marker (corona) (1)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.4" posY="-1672.3" posZ="16.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (2)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.4" posY="-1672.3" posZ="17.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (3)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.4" posY="-1672.3" posZ="19" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (4)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.4" posY="-1672.3" posZ="20.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (5)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.4" posY="-1672.3" posZ="21.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (6)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.6" posY="-1672.3" posZ="23.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (7)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.6" posY="-1672.3" posZ="24.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (8)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556" posY="-1675" posZ="24.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (9)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.4" posY="-1677.9" posZ="25" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (10)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="23.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (11)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="22.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (12)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="21.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (13)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="20.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (14)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="18.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (15)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="17.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (16)" type="corona" color="#0000ffff" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.8" posY="-1678.8" posZ="15.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (17)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.2" posY="-1678.9" posZ="22.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (18)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.2" posY="-1678.9" posZ="21.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (19)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.2" posY="-1678.9" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (20)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.2" posY="-1678.9" posZ="18.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (21)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.2" posY="-1678.9" posZ="16.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (22)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.4" posY="-1672.2" posZ="16.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (23)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.4" posY="-1672.2" posZ="18.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (24)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.4" posY="-1672.2" posZ="19.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (25)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.4" posY="-1672.2" posZ="21.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (26)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.4" posY="-1672.2" posZ="22.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (27)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.3" posY="-1672.2" posZ="24.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (28)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.3" posY="-1673.4" posZ="25.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (29)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.2" posY="-1676.6" posZ="25.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (30)" type="corona" color="#FF0000FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1556.3" posY="-1678.9" posZ="25.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (31)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (32)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="18.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (33)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="16.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (34)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="15.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (35)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1676.9" posZ="20.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (36)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1676" posZ="20.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (37)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1675" posZ="20.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (38)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1674.1" posZ="20" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (39)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1673.7" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (40)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1673.7" posZ="18.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (41)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1673.7" posZ="16.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (42)" type="corona" color="#24FE00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1673.7" posZ="15.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (43)" type="corona" color="#FD5F00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.3" posY="-1673.7" posZ="16.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (44)" type="corona" color="#FD5F00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.3" posY="-1673.7" posZ="17.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (45)" type="corona" color="#FD5F00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.3" posY="-1673.7" posZ="18.9" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (46)" type="corona" color="#FD5F00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="18.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (47)" type="corona" color="#FD5F00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="17.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (48)" type="corona" color="#FD5F00FF" size="0.40000001" interior="0" dimension="0" alpha="255" posX="1555.1" posY="-1677.5" posZ="16.2" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (pinetree06) (1)" breakable="true" interior="0" alpha="255" model="655" doublesided="false" scale="1" dimension="0" posX="1542.5" posY="-1685.9" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (corona) (49)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1542.6" posY="-1684.4" posZ="18.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (50)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1545.3" posY="-1686.1" posZ="18.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (51)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1542" posY="-1687" posZ="18.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (52)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1541.7" posY="-1684.4" posZ="18.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (53)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1542.7" posY="-1686" posZ="20.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (54)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1542.7" posY="-1686" posZ="22.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (55)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1543.3" posY="-1686" posZ="22.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (56)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1544" posY="-1687" posZ="22.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (57)" type="corona" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1543.9" posY="-1684.1" posZ="17.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (58)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1541.3" posY="-1686.7" posZ="18.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (59)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1541.6" posY="-1688" posZ="20.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (60)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1541.8" posY="-1684.9" posZ="21.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (61)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1544.5" posY="-1687.4" posZ="21.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (62)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1544.5" posY="-1687.4" posZ="21.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (63)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1543.2" posY="-1684.7" posZ="21.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (64)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1543.2" posY="-1684.7" posZ="19" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (65)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1543.9" posY="-1687.2" posZ="19" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (66)" type="corona" color="#2AFE00FF" size="1" interior="0" dimension="0" alpha="255" posX="1544.4" posY="-1685" posZ="19" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (CJ_SMOKE_MACH) (1)" breakable="true" interior="0" alpha="255" model="2780" doublesided="false" scale="0" dimension="0" posX="1543" posY="-1686.3" posZ="19" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Cargo Trailer 1) (1)" paintjob="3" interior="0" alpha="255" model="435" plate="J1IC M23" dimension="0" posX="1548" posY="-1653.5" posZ="14.2" rotX="0" rotY="0" rotZ="90.031" color="245,245,245,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Tanker) (1)" paintjob="3" interior="0" alpha="255" model="514" plate="ETBQ 86O" dimension="0" posX="1538.2" posY="-1654.3" posZ="14.2" rotX="0" rotY="0" rotZ="90.032" color="39,47,75,245,245,245,0,0,0,0,0,0"></vehicle>
+</map>

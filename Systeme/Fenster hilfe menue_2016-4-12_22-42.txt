@@ -1,0 +1,26 @@
+
+GUIEditor = {
+    tab = {},
+    window = {},
+    tabpanel = {},
+    label = {}
+}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        GUIEditor.window[1] = guiCreateWindow(458, 247, 560, 352, "Hilfe Panel", false)
+        guiWindowSetSizable(GUIEditor.window[1], false)
+
+        GUIEditor.tabpanel[1] = guiCreateTabPanel(0.02, 0.06, 0.97, 0.91, true, GUIEditor.window[1])
+
+        GUIEditor.tab[1] = guiCreateTab("Befehle", GUIEditor.tabpanel[1])
+
+        GUIEditor.label[1] = guiCreateLabel(0.30, 0.03, 0.36, 0.05, "Hallo und Willkommen im Hilfe Menü. ", true, GUIEditor.tab[1])
+        guiSetFont(GUIEditor.label[1], "default-bold-small")
+        guiLabelSetColor(GUIEditor.label[1], 13, 253, 1)
+        GUIEditor.label[2] = guiCreateLabel(0.02, 0.15, 0.96, 0.82, "Bei uns gibt es Wenig befehle. die meisten Sachen Rein/Raus vom Haus zu gehen oder Bank automaten bedienen Funktionieren mit er Taste: H.                                                                                                                                           Es gibt dennoch einige Befehle: Adminrank abfragen: /meinarank, Fraktion Abfragen: /fraki Frakionsrank Abfragen: /frakirank", true, GUIEditor.tab[1])
+        guiLabelSetHorizontalAlign(GUIEditor.label[2], "left", true)
+
+        GUIEditor.tab[2] = guiCreateTab("Daten", GUIEditor.tabpanel[1])
+        GUIEditor.tab[3] = guiCreateTab("Server", GUIEditor.tabpanel[1])    
+    end
+)

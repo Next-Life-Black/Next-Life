@@ -1,0 +1,170 @@
+<meta>
+	<info name="Ultra Reallife|Selfmade 27.3.16(Show)" author="Black&Xseam" type="gamemode" />
+	 <min_mta_version client="1.3.1" server="1.3.0-9.03968" />
+	<!-- MySQL Denk daran mysql muss immer als erstes Gestartet werden!-->
+	<!-- _______Script by Black_______
+	     __________(C)2016____________-->
+		 
+	<script src="settings/mysql.lua" />
+	<script src="settings/settings.lua" />
+	<!--Login --> 
+	<script src="Login/login_client.lua" type="client"  cache="false"/> 
+	<script src="Login/login_server.lua" type="server"/>
+	<file src="Sounds/register_login/Button_Click.mp3" />
+	<!--GUI-->
+
+	<!---Systeme Nimals Löschen!!---->
+	<script src="Banksys/Banksys_c.lua" type="client"  cache="false"/>
+	<script src="Banksys/Banksys_s.lua" type="server"/>
+
+	
+	<!----------------Fraktionen--------------------->
+	<script src="Fraktionen/A-Fraktion_c.lua" type="client"  cache="false"/>
+	<script src="Fraktionen/allgemein.lua" type="server"/>
+	<script src="Fraktionen/Respawn.lua" type="server" />
+	<script src="Fraktionen/allround.lua" />
+	<!--LSPD-->
+	<script src="Fraktionen/lspd/Fraktions_Autos.lua" type="server" />
+	<script src="Fraktionen/lspd/allgemein.lua" type="server"/>
+	<script src="Fraktionen/lspd/basis.lua" type="server"/>
+	
+	
+	
+	<script src="Admin/admin_s.lua" type="server"/>
+	<script src="Admin/admin_c.lua" type="client" cache="false"/>
+	
+	
+	
+	<file src="Sounds/register_login/Join.mp3" />
+	<file src="Sounds/Tutorial.mp3" />
+	<file src="images/Render.png" />
+	<file src="Sounds/Story/Herz.mp3" />
+	<file src="Sounds/Story/Atmung.mp3" />
+	<file src="Sounds/Story/Story.mp3" />
+	
+	<!-- Car_System -->
+	<file src="Sounds/Autosys/Car_Start.mp3" />
+	<file src="Sounds/Autosys/Car_NOStart.mp3" />
+	<file src="Sounds/Autosys/Tank.mp3" />
+	<file src="Sounds/Tuningsys/CSR.mp3" />
+	
+	
+	
+
+		<!-- < Neues Tacho /> -->
+	
+
+	<script src="Autosys/Tank_C.lua" type="client" cache="false" />
+	<script src="Autosys/Radio.lua" type="client" cache="false" />
+    <script src="Autosys/Tank_S.lua" type="server" />
+	<script src="Autosys/Car_Respawn.lua" type="server" />
+	
+
+    <file src="images/fuelcircle.png" />
+    <file src="images/fuelarrow.png" />
+    <file src="images/speedarrow.png" />
+    <file src="images/speedcircle.png" />
+    <file src="images/carhealth.png" />
+	<!-- < Neues Tacho /> -->
+	
+	
+	<!-- < Scoreboard/> -->
+	<script src="Client/Scoreboard.lua" type="client" cache="false" />
+	<!-- <script src="Client/Hud.lua" type="client" cache="false" /> -->
+	<script src="Client/Blinker.lua" type="server" />
+	<script src="Client/Chat.lua" />
+	<script src="Client/Radio.lua" type="client" cache="false" />
+	
+	<!--Nametag-->
+	<script src="Client/Nametag_C.lua" type="client" cache="false" />
+        <file src="bhz.ttf" type="client" />
+	
+	<!---Tutorial---->
+	<script src="Tutorial/Tutorial_C.lua" type="client" cache="false" />
+	<script src="experimental/Aufloesung.lua" type="client" cache="false" />
+	 <file src="images/Logo.png" />
+	
+	
+	<!-- Maps -->
+	 <map src="Maps/Story.map" dimension="1"></map>
+	 
+	 <!-- Autohaus -->
+	<file src="images/Autohaendler/LegendCars/LegendCars.png" />
+	<file src="images/Autohaendler/LegendCars/Legendlogo.png" />
+	<file src="images/Autohaendler/LegendCars/Spec_Backround.png" />
+	<file src="images/Autohaendler/LegendCars/Super_Cars/Infernus.png" />
+	<file src="images/Autohaendler/LegendCars/Super_Cars/Banshee.png" />
+	<file src="images/Autohaendler/LegendCars/Super_Cars/Bullet.png" />
+	<file src="images/Autohaendler/LegendCars/Super_Cars/Super GT.png" />
+	<file src="images/Autohaendler/LegendCars/Super_Cars/Turismo.png" />
+
+
+	
+	
+	
+	<!----Manager--->
+	<file src="images/Manager/Funy.png" />
+	<file src="images/Manager/stuadis.png" />
+	<file src="images/Manager/Speakbox.png" />
+	
+	<!-- Fahrschule -->
+	
+	<script src="Fahrschule/Auto/Theorie_C.lua" type="client" cache="false" />
+	<script src="Autosys/Tuningsys_C.lua" type="client" cache="false" />
+    <script src="Fahrschule/Auto/Theorie_S.lua" type="Server" />
+	<script src="Fahrschule/Auto/Praxis_C.lua" type="client" cache="false" />
+	<file src="images/Fahrschule/Situation1.png" />
+	<file src="images/Fahrschule/Arrow.png" />
+	<file src="images/Fahrschule/Situation2.png" />
+	<file src="images/Fahrschule/Situation3.png" />
+	
+	
+	<file src="images/Carsys/oil.png" />
+	<file src="images/Carsys/blinker_rechts.png" />
+	<file src="images/Carsys/blinker_links.png" />
+	<file src="images/Carsys/Battery.png" />
+	<file src="images/Carsys/fuel.png" />
+	<file src="images/Carsys/Filter.png" />
+	<file src="images/Tuningsys/Turbo.png" />
+	<file src="images/Tuningsys/Turbo-1.png" />
+	<file src="images/Tuningsys/Turbo-2.png" />
+	<file src="images/Tuningsys/Turbo-3.png" />
+	<file src="images/Tuningsys/Motor.png" />
+	<file src="images/Tuningsys/Motor-1.png" />
+	<file src="images/Tuningsys/Motor-2.png" />
+	<file src="images/Tuningsys/Motor-3.png" />
+	<file src="images/Tuningsys/BR.png" />
+	
+	<!-- HausSystem by Noeatme -->
+	<script src="HausSyS/client.lua" type="client" cache="false" />
+	<script src="HausSyS/server.lua" type="server" />
+	
+	<!-- AntiCheatSystem -->
+		<!-- <script src="AntiCheat/AntiCheatSyS_C.lua" type="client" cache="false" /> -->
+		<script src="AntiCheat/AntiCheatSyS.lua" type="server" />
+		
+	<!-- <!-- Tuning_SYS BetaPhase --> 
+	<script src="Autosys/Tuningsys/TuningSys_C.lua" type="client" cache="false" />
+	
+	<!-- Virtual-Real Datein -->
+	<file src="Sounds/VRS/Konfi.mp3" />
+	<file src="images/GUI.png" />
+	<file src="Sounds/VRS/Music1.mp3" cache="false" />
+	<file src="images/VRS/Logo.png" />
+	<file src="images/VRS/Logo_P.png" />
+	<script src="VRS/Grundsystem/VRS_SystemUI.lua" type="server" />
+	<script src="VRS/Grundsystem/VRS_GUI.lua" type="client" cache="false" />
+	<!-- Auto Save System -->
+	<script src="Savesys/Savesys.lua" type="server" />
+	
+	<script src="Client/UserIF.lua" type="client" cache="false" />
+	
+	<!-- 1. Fraktionen /> -->
+	<!-- 2. Jobs /> -->
+	<!-- 3. Handy /> -->
+	<!-- 4.CarRespawn /> -->
+	<!-- 5.Carhouse /> -->
+	<!-- Tuning /> -->
+	<!-- Skinhouse /> -->
+	<!-- 5.Carhouse /> -->
+</meta>

@@ -1,0 +1,6 @@
+﻿function LetsDanceMyPed ()
+ DJDance = createPed (90, 584.2781,-1875,4.25) 
+ setElementFrozen (DJDance, true)
+
+end
+addEventHandler ("onResourceStart", getRootElement(), LetsDanceMyPed)
