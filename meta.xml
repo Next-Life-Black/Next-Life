@@ -1,4 +1,4 @@
-<meta>
+﻿<meta>
 	<info name="Next-Reallife|Closed Pre-Alpha" author="Black&Xseam" type="gamemode" />
 	 <min_mta_version client="1.3.1" server="1.3.0-9.03968" />
 	<!-- MySQL Denk daran mysql muss immer als erstes Gestartet werden!-->
@@ -17,6 +17,7 @@
 	<file src="images/bg.png" />
 	
 	
+
 		<!-- Feietage -->
 	<!-- ----------Snow Script nicht von mir!------------- -->
 		<file src="Feiertage/Weinachten/direction_image.png"/>
